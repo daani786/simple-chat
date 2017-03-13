@@ -1,0 +1,8 @@
+.some-margin {
+  margin: 40px 0;
+}
+
+.margin_auto {
+    display: block;
+    margin: auto;
+}
